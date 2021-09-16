@@ -1,4 +1,3 @@
-![0](https://user-images.githubusercontent.com/28332031/133576146-08a16c80-d878-4b51-af21-b854ffe557fc.gif)
 利用Unity的Slider和Input Field控制數值。
 
 可以同時利用這兩個元件對數值做調整，此腳本預設數值為1~500。
