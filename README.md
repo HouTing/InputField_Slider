@@ -10,4 +10,5 @@
 
 如有更好的寫法請告訴我，非常感謝。
 
-Email：luckygiraffe9869@gmail.com
+Email：luckygiraffe9869@gmail.com![01](https://user-images.githubusercontent.com/28332031/133575479-9df3a0c0-386b-4f22-8a1d-01d9a9e9ac73.gif)
+
