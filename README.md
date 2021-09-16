@@ -9,3 +9,5 @@
 刪除Input Field的內容並且「退出編輯」時，Input Field的欄位會是1，slider的值會是1。
 
 如有更好的寫法請告訴我，非常感謝。
+
+Email:luckygiraffe9869@gmail.com
